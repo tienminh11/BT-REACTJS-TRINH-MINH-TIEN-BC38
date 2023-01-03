@@ -1,4 +1,5 @@
 import Body from "./BaiTapLayoutComponent/Body";
+import Glasses from "./GlassesComponent/Glasses";
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
       <Footer/> */}
       {/* <h1>bai tap 1</h1> */}
       {/* <h1>bai tap</h1> */}
-      <Body />
+      {/* <Body /> */}
+      <Glasses/>
     </div>
   );
 }

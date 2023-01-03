@@ -1,0 +1,64 @@
+.container{
+    width: 100%;
+}
+.thumnail{
+    width: 100%;
+    height: 800px;
+    position: relative;
+}
+ .imgleft{
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    height: 500px;
+    width: 300px;
+    /* display: none; */
+}
+.btn{
+    margin-right: 20px;
+}
+.g1{
+    height: 100px;
+    width: 100px;
+}
+.g2{
+    height: 100px;
+    width: 100px;
+}
+.g3{
+    height: 100px;
+    width: 100px;
+}
+.g4{
+    height: 100px;
+    width: 100px;
+}
+.v1{
+    height: 100px;
+    width: 100px;
+}
+.v2{
+    height: 100px;
+    width: 100px;
+}.v3{
+    height: 100px;
+    width: 100px;
+}.v4{
+    height: 100px;
+    width: 100px;
+}.v5{
+    height: 100px;
+    width: 100px;
+}.v6{
+    height: 100px;
+    width: 100px;
+}.v7{
+    height: 100px;
+    width: 100px;
+}.v8{
+    height: 100px;
+    width: 100px;
+}.v9{
+    height: 100px;
+    width: 100px;
+}
