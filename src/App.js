@@ -1,4 +1,4 @@
-import Body from "./BaiTapLayoutComponent/Body";
+
 import Glasses from "./Component-BT2/Glasses";
 
 function App() {

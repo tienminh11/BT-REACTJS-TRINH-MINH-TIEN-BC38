@@ -15,7 +15,7 @@ console.log(styles);
 
 export default class Glasses extends Component {
   state = {
-    glassesImage: Glassesv1,
+    glassesImage: Glassesg1,
   };
   changeGlasses(type) {
     let newGlasses;
@@ -56,10 +56,6 @@ export default class Glasses extends Component {
           <img className={styles.imgleft} src={Model} alt=""></img>
         </div>
         <div>
-          <img className={styles.g1} src={Glassesg1}></img>
-          <img className={styles.g2} src={Glassesg2}></img>
-          <img className={styles.g3} src={Glassesg3}></img>
-          <img className={styles.g4} src={Glassesg4}></img>
           <button
             onClick={() => {
               this.changeGlasses("v1");
