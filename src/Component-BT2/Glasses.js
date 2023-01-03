@@ -15,7 +15,7 @@ console.log(styles);
 
 export default class Glasses extends Component {
   state = {
-    glassesImage: Glasses1,
+    glassesImage: Glassesv1,
   };
   changeGlasses(type) {
     let newGlasses;

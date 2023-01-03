@@ -1,5 +1,5 @@
 import Body from "./BaiTapLayoutComponent/Body";
-import Glasses from "./GlassesComponent/Glasses";
+import Glasses from "./Component-BT2/Glasses";
 
 function App() {
   return (
